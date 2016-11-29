@@ -1,6 +1,6 @@
 # Mandatory settings
 
-name: Chalk
+name: Jesse Onolememen
 paginate: 25
 paginate_path: "/posts/page/:num/"
 url: # add site url http://example.com/
@@ -15,11 +15,11 @@ social:
   dribbble: # Add your Dribbble handle
   facebook: # Add your Facebook handle
   flickr: # Add your Flickr handle
-  github: # Add your GitHub handle
-  linkedin: # Add your LinkedIn handle
-  twitter: # Add your Twitter handle
-  email: # Add your Email address
-  bitcoin: # Add your Bitcoin link or address
+  github: jesster2k10
+  linkedin: jesse-o-914a85122?trk=nav_responsive_tab_profile_pic
+  twitter: jonolememen
+  email: jesster2k10@gmail.com
+  bitcoin: 1LFTEev8Mheg4pnDMdtMdcveKqTJvDeWYW
 
 # Important settings (change at own risk)
 
