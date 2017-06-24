@@ -22,7 +22,7 @@ name: Jesse Onolememen
 paginate: 25
 paginate_path: "/posts/page/:num/"
 url: 
-blog_theme: light
+blog_theme: dark
 discus_identifier: 
 ga_analytics: 
 rss_enabled: true
