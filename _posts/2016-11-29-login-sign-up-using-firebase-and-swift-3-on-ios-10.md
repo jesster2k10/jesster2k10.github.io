@@ -1,10 +1,22 @@
 ---
+title: Firebase Login/Sign up with Swift 3
+date: 2016-11-29 00:00:00 Z
+tags:
+- login
+- sign up
+- swift
+- swift 3
+- ios
+- firebase
+- authentification
+- databse
+- parse
+- xcode 8
+- cocoapods
 layout: post
-title: "Firebase Login/Sign up with Swift 3"
 comments: true
-description: "Learn how to implemement user login/sign up using Firebase on Swift 3"
-og_image: "documentation/sample-image.jpg"
-tags: [login, sign up, swift, swift 3, ios, firebase, authentification, databse, parse, xcode 8, cocoapods]
+description: Learn how to implemement user login/sign up using Firebase on Swift 3
+og_image: documentation/sample-image.jpg
 ---
 
 If you're making any sort of app for iOS, I'm pretty sure at one point you thought making user accounts would be a great idea but; you might've tought it would be too hard. Luckily, [Firebase](https://firebase.google.com) by google makes this a hell load easier. Previously you would've had to have to purchase a server, setup a `mySQL` database, create a PHP file to connect to the database, use something like `AFNetworking` to connect to that server etc.
