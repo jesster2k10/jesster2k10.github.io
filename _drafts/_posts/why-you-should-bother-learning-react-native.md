@@ -1,10 +1,9 @@
 ---
-layout: articles_by_tag
 title: 'Why You Should Bother Learning React Native '
-date: 2017-07-24 14:28
+date: 2017-07-24 14:28:00 Z
+layout: articles_by_tag
 name: Jesse Onolememen
 ---
-
 
 If you're anything like me - You're a full stack iOS Developer making top notch mobile apps every day. You've got a great experience with either Swift or Objective-C and have gotten quite comfortable with the whole iOS Development ecosystem. You're also know how to code with Java as you've made some Android apps in the past.
 
